@@ -9,4 +9,4 @@ For example:
 4. What do you expect from Deep Learning?
 5. ...
 
-PS: Issues in ZH/EN are both welcome, here I typed in EN cuz I haven't figure out how to install chinses input method on the suffering Ubuntu.
+PS: Issues in ZH/EN are both welcome, here I typed in EN cuz I haven't figured out how to install chinses input method on the suffering Ubuntu.
