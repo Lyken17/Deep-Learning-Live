@@ -12,3 +12,6 @@ For example:
 PS: Issues in ZH/EN are both welcome, here I typed in EN cuz I haven't figured out how to install chinses input method on the suffering Ubuntu.
 
 [Some prerequisites](./Prerequisite.md)
+
+# Note: 
+The tutorial live has finished. The slide is now public on [google slides](https://goo.gl/j8xY3y). Original keynote version is avalible upon request.
